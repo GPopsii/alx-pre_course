@@ -1,2 +1,0 @@
-* Alx Student
-* Readme file
